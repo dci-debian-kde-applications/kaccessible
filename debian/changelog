@@ -1,4 +1,4 @@
-kaccessible (4.8.4-1) UNRELEASED; urgency=low
+kaccessible (4.8.4-1) unstable; urgency=low
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Initial packaging, split from kdeaccesibility.
@@ -7,4 +7,4 @@ kaccessible (4.8.4-1) UNRELEASED; urgency=low
   * Add myself to Uploaders.
   * Create a -dbg package.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 17 Jun 2012 13:35:24 -0300
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 17 Jun 2012 18:47:36 -0300
