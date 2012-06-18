@@ -38,6 +38,6 @@ Replaces: kdeaccessibility-dbg (<< 4:4.8)
 Description: debugging symbols for kaccessible
  This package contains the debugging symbols for kaccessible. It is to be used
  in order to be able provide proper back traces for possible crashes or for
- running jovie in gdb or valgrind for meaningful output
+ running kaccessible in gdb or valgrind for meaningful output
  .
  This package is part of the KDE accessibility module.
