@@ -1,6 +1,7 @@
 kaccessible (4.8.4-2) UNRELEASED; urgency=low
 
   * Add Breaks+Replaces to kaccessible-dbg againt kdeaccessibility-dbg.
+  * Improve kaccessible-dbg's description.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Jun 2012 08:08:59 -0300
 
