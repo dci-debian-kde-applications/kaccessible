@@ -4,7 +4,7 @@ Source: http://www.kde.org
 
 Files: *
 Copyright: 2010 Sebastian Sauer <sebsauer@kdab.com>
-License: LGPL-2
+License: LGPL-2+
 
 Files: cmake/*
 Copyright: 2009 Jeremy Whiting <jeremy@scitools.com>
@@ -12,9 +12,9 @@ License: BSD-4-clause
 
 Files: debian/*
 Copyright: 2012 Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
-License: LGPL-2
+License: LGPL-2+
 
-License: LGPL-2
+License: LGPL-2+
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
  License as published by the Free Software Foundation; either

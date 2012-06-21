@@ -1,6 +1,7 @@
 kaccessible (4:4.8.4-3) UNRELEASED; urgency=low
 
   * The "I missed the epoch" release.
+  * Fix debian/copyright, the license it's LGPL-2+.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Thu, 21 Jun 2012 13:22:59 -0300
 
