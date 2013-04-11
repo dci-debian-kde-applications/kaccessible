@@ -1,11 +1,11 @@
-kaccessible (4:4.10.2-0r1) UNRELEASED; urgency=low
+kaccessible (4:4.10.2-1) experimental; urgency=low
 
   * New upstream release.
 
   [ Pino Toscano ]
   * Bump the kde-sc-dev-latest and kdelibs5-dev build dependencies to 4.10.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 10 Apr 2013 15:19:11 +0200
+ -- Sune Vuorela <sune@debian.org>  Thu, 11 Apr 2013 21:28:47 +0000
 
 kaccessible (4:4.8.4-3) unstable; urgency=low
 
