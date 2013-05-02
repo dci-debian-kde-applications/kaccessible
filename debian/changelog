@@ -5,6 +5,9 @@ kaccessible (4:4.10.2-2) UNRELEASED; urgency=low
     speechd.
   [ Maximiliano Curia ]
   * Update copyright file.
+  * Reshuffle build dependencies to reduce resolver tries.
+  * Bump debhelper dependency to 9.
+  * Update Standards-Version to 3.9.4, no changes needed.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 12 Apr 2013 10:36:10 +0200
 
