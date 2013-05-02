@@ -3,15 +3,16 @@ Upstream-Name: kaccesible
 Source: http://www.kde.org
 
 Files: *
-Copyright: 2010 Sebastian Sauer <sebsauer@kdab.com>
+Copyright: 2010, Sebastian Sauer <sebsauer@kdab.com>
 License: LGPL-2+
 
 Files: cmake/*
-Copyright: 2009 Jeremy Whiting <jeremy@scitools.com>
-License: BSD-4-clause
+Copyright: 2009, Jeremy Whiting <jeremy@scitools.com>
+           2011, Raphael Kubo da Costa <kubito@gmail.com>
+License: BSD-3-clause
 
 Files: debian/*
-Copyright: 2012 Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
+Copyright: 2012, Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
 License: LGPL-2+
 
 License: LGPL-2+
@@ -33,7 +34,7 @@ License: LGPL-2+
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
 
-License: BSD-4-clause
+License: BSD-3-clause
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions
  are met:

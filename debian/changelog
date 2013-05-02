@@ -3,6 +3,8 @@ kaccessible (4:4.10.2-2) UNRELEASED; urgency=low
   [ Pino Toscano ]
   * Add the libspeechd-dev build dependency for kaccessibleapp integration with
     speechd.
+  [ Maximiliano Curia ]
+  * Update copyright file.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 12 Apr 2013 10:36:10 +0200
 
