@@ -3,14 +3,16 @@ Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Sune Vuorela <sune@debian.org>,
- Modestas Vainius <modax@debian.org>,
- Eshat Cakar <info@eshat.de>,
- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
- Maximiliano Curia <maxy@debian.org>
-Build-Depends: kdelibs5-dev (>= 4:4.11),
- kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14),
- libspeechd-dev
+           Modestas Vainius <modax@debian.org>,
+           Eshat Cakar <info@eshat.de>,
+           Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
+           Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libspeechd-dev,
+               pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kaccessible.git
@@ -19,7 +21,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kaccessible.git
 Package: kaccessible
 Architecture: any
 Section: utils
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: accessibility services for Qt applications
  kaccessible implements a QAccessibleBridgePlugin to provide accessibility
  services like focus tracking and a screen reader.
