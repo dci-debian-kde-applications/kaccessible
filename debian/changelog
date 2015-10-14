@@ -1,8 +1,8 @@
-kaccessible (4:15.08.2-0ubuntu1) UNRELEASED; urgency=medium
+kaccessible (4:15.08.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 09 Oct 2015 13:37:37 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 11:53:07 +0100
 
 kaccessible (4:15.08.1-0ubuntu1) wily; urgency=medium
 
