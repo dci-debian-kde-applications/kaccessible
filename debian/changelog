@@ -1,6 +1,10 @@
 kaccessible (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
+
+  [ Philip Muškovac ]
+  * Merge with debian git master
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 13:32:05 +0000
 
@@ -45,6 +49,13 @@ kaccessible (4:14.12.3-0ubuntu1) vivid; urgency=medium
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 13:21:31 -0700
+
+kaccessible (4:14.12.2-1) experimental; urgency=medium
+
+  * Prepare Debian release.
+  * Bump Standards-Version to 3.9.6, no changes needed.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 17 Feb 2015 10:39:08 +0100
 
 kaccessible (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
