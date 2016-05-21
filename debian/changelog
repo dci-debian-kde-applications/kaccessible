@@ -1,15 +1,16 @@
-kaccessible (4:14.12.2-2~1.gbp0e583b) UNRELEASED; urgency=medium
+kaccessible (4:14.12.2-2~2.gbpd9f26e) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @0e583b000c22e7f57909017714def0cb06ba2a80 **
+  ** SNAPSHOT build @d9f26e35f916e4ab7a2f2dbff4239361d60f2991 **
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Migrate to the automatic dbgsym packages
 
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Thu, 14 Apr 2016 13:58:54 +0200
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 21 May 2016 15:21:38 +0200
 
 kaccessible (4:14.12.2-1) experimental; urgency=medium
 
