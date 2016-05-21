@@ -1,6 +1,4 @@
-kaccessible (4:14.12.2-2~2.gbpd9f26e) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @d9f26e35f916e4ab7a2f2dbff4239361d60f2991 **
+kaccessible (4:14.12.2-2) unstable; urgency=medium
 
   [ Maximiliano Curia ]
   * Add upstream metadata (DEP-12)
@@ -10,7 +8,7 @@ kaccessible (4:14.12.2-2~2.gbpd9f26e) UNRELEASED; urgency=medium
   [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 21 May 2016 15:21:38 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 May 2016 15:49:23 +0200
 
 kaccessible (4:14.12.2-1) experimental; urgency=medium
 
