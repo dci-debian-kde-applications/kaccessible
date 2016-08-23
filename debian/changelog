@@ -1,12 +1,12 @@
-kaccessible (4:16.08.0-0r1) UNRELEASED; urgency=medium
+kaccessible (4:16.08.0-1) unstable; urgency=medium
 
-  [ Pino Toscano ]
+  * Team upload.
   * New upstream release.
   * Stop forcing the local installation to debian/tmp, letting the package
     directory as install place.
     - remove kaccessible.install, no more used now
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 23 Aug 2016 22:21:36 +0200
+ -- Pino Toscano <pino@debian.org>  Tue, 23 Aug 2016 22:30:00 +0200
 
 kaccessible (4:14.12.2-2) unstable; urgency=medium
 
